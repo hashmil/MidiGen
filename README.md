@@ -2,7 +2,7 @@
 
 ## Overview
 
-MidiGen is a series of three Jupyter notebooks designed to process, train, and generate music using MIDI files. This project employs neural networks to learn from a dataset of MIDI files and subsequently generates new, unique musical pieces. It's an exciting blend of technology and creativity, ideal for those interested in the intersection of machine learning and music.
+MidiGen is a series of three Jupyter/Google Colab notebooks designed to process, train, and generate music using MIDI files. This project employs neural networks to learn from a dataset of MIDI files and subsequently generates new, unique musical pieces. It's an exciting blend of technology and creativity, ideal for those interested in the intersection of machine learning and music.
 
 ## Notebooks
 
