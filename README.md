@@ -14,7 +14,7 @@ MidiGen is a series of three Jupyter/Google Colab notebooks designed to process,
 
 ### 2. Training the Model
 
-[Training Model Notebook](#) - In this notebook, a neural network model is created and trained on the processed data. The model learns to predict musical patterns based on the input MIDI files.
+[Training Model Notebook](https://github.com/hashmil/MidiGen/blob/main/MidiGen_model_training.ipynb) - In this notebook, a neural network model is created and trained on the processed data. The model learns to predict musical patterns based on the input MIDI files.
 
 **Note**: This notebook uses Google Drive for storing intermediate data and the trained model. Be sure to check and update the file paths as necessary.
 
