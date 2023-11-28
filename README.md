@@ -20,7 +20,7 @@ MidiGen is a series of three Jupyter/Google Colab notebooks designed to process,
 
 ### 3. Generating Music
 
-[Generating Music Notebook](#) - The final notebook uses the trained model to generate new music. It outputs a MIDI file that represents a new piece of music based on the training.
+[Generating Music Notebook](https://github.com/hashmil/MidiGen/blob/main/MidiGen_Generation.ipynb) - The final notebook uses the trained model to generate new music. It outputs a MIDI file that represents a new piece of music based on the training.
 
 **Note**: This notebook interacts with Google Drive for loading the trained model and saving the generated music. Ensure that the file paths are correct for your setup.
 
